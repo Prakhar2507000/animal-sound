@@ -1,0 +1,19 @@
+body
+{
+    background-color: rgb(86, 86, 86);
+}
+
+.header_div
+{
+    background-color: rgb(255, 166, 0);
+    font-family: 'Roboto';
+}
+
+
+
+.copy_right_footer
+{
+    background-color: rgb(209, 72, 72);
+    height: 50px;
+    text-align: center;
+}
